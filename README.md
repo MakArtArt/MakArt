@@ -1,13 +1,4 @@
 # 🎨✨ MakArt
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Artist-Visionary%20%F0%9F%8E%A8-red?style=for-the-badge" alt="Artist Badge">
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Commisions%20%F0%9F%92%B0-green?style=for-the-badge" alt="Status Badge">
-</div>
-
-
----
-
 ## 🌟 Приветственный взгляд!
 
 Приветственный взгляд, вещает **МакАрт**!
