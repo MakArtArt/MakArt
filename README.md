@@ -34,20 +34,11 @@
 [![DeviantArt](https://img.shields.io/badge/-DeviantArt-05CC47?style=flat-square&logo=deviantart&logoColor=white)](https://deviantart.com/makartarts)
 [![Boosty](https://img.shields.io/badge/-Boosty-FF5500?style=flat-square)](https://boosty.to/makart)
 
-### 🎵 Музыка и аудио
+### 🎵 Музыка
 [![BandLink](https://img.shields.io/badge/-BandLink-4285F4?style=flat-square&logo=bandlab&logoColor=white)](https://band.link/MakArt)
 [![SoundCloud 1](https://img.shields.io/badge/-SoundCloud_Profi-FF3300?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/mak..)
 [![SoundCloud 2](https://img.shields.io/badge/-SoundCloud_Experimental-FF5500?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/mrn..)
 [![Fan Links](https://img.shields.io/badge/-Fan_Links-9B59B6?style=flat-square)](https://fanlink.to/MakArts..)
-
-### 💌 Сообщества и поддержка
-[![VK Community](https://img.shields.io/badge/-VK_Group-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.com/club215513301)
-[![QIWI Donate](https://img.shields.io/badge/-QIWI_Donate-FF6C00?style=flat-square&logo=qiwi&logoColor=white)](https://donate.qiwi.com/pa..)
-[![VK Donate](https://img.shields.io/badge/-VK_Donate-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.com/away.php?to=https://donate.qiwi.com/pa..)
-
-### 🎨 Арт-платформы
-[![DeviantArt](https://img.shields.io/badge/-DeviantArt-05CC47?style=flat-square&logo=deviantart&logoColor=white)](https://deviantart.com/makartarts)
-[![SoundCloud Art](https://img.shields.io/badge/-SoundCloud_Art-FF5500?style=flat-square&logo=soundcloud&logoColor=white)](https://vk.com/away.php?to=https://soundcloud.com/mak..)
 
 ---
 
@@ -58,5 +49,5 @@
 
 <div align="center">
   <h3>⚡ Арт-статус: «Любой каприз за ваши деньги»</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Творческих+порывов+и+вдохновения!%F0%9F%8E%AD;Прощальный+взгляд%2C+вещал+МакАрт!%F0%9F%91%8B" alt="Typing SVG">
+  <font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Творческих+порывов+и+вдохновения!%F0%9F%8E%AD;Прощальный+взгляд%2C+вещал+МакАрт!%F0%9F%91%8B" alt="Typing SVG">
 </div>
